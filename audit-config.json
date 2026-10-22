@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "enabled": true,
-  "interval_days": 7,
+  "interval_days": 15,
   "retry_hours": 4,
   "allow_all_users": true
 }
